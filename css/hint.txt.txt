@@ -1,0 +1,17 @@
+在.css文件中，可以对三种标签进行渲染
+
+body{
+
+}
+这是html标签，一般对网站主题进行控制，可以很容易的改变网站主题格式
+.buttonType1{
+
+}
+这是一个class标签，如<div class="buttonType1" >ClickOnMeSlightly</div>,相比html标签，可以是一个更灵活的小尺度的控制
+#assignInButton{
+
+}
+这是一个id标签，如<div id="assignInButton">Assign</div>,理论上一个网页中一个id只对应一个标签，所以控制的范围更小。
+为了将来好修改控制，建议对id标签起名字时可以写成[file][-][someid], 如id="restaurantLogin_login"
+
+cheerup, It's funny!
