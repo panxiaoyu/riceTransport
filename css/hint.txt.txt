@@ -12,6 +12,6 @@ body{
 
 }
 这是一个id标签，如<div id="assignInButton">Assign</div>,理论上一个网页中一个id只对应一个标签，所以控制的范围更小。
-为了将来好修改控制，建议对id标签起名字时可以写成[file][-][someid], 如id="restaurantLogin_login"
+为了将来好修改控制，建议对id标签起名字时可以写成[file][_][someid], 如id="restaurantLogin_login"
 
 cheerup, It's funny!

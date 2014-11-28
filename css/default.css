@@ -16,3 +16,12 @@ input{
 #someidtag {
 
 }
+#restaurant{
+background-color:#B2F3C3;
+height:20px;
+width:100px;
+}
+#restaurant:hover{
+background-color:#Bfffff;
+
+}

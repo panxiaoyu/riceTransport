@@ -45,4 +45,10 @@ $("#ok").click(function(){
 		}
 	});
 });
+$("#restaurant").mouseenter(function(e){
+	$(this).css({
+				"width":"200px",
+				"height":"300px"
+				});
+});
 </script>
