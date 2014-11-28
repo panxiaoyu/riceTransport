@@ -8,3 +8,5 @@ db：数据库
 下载wamp，安装后。
 首先将db里边的数据库使用phpMyAdmin工具导入数据库
 将本项目拷贝到wamp/www/的目录下，在浏览器中输入localhost/riceTrancePort
+
+苏打水的
